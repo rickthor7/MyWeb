@@ -1,3 +1,3 @@
-## Web Portofolio
+## My Personal Website
 
- - new libraray use : https://github.com/bagusindrayana/scrollpage-js
+ - https://www.rickthor7.my.id
