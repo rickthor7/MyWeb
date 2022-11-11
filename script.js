@@ -102,7 +102,7 @@ const Reminder = () => {
         React.createElement("div", { className: "reminder-icon" },
             React.createElement("i", { className: "fa-regular fa-bell" })),
         React.createElement("span", { className: "reminder-text" },
-            "Extra cool people meeting ",
+            "Cuacanya Enak buat ngaji trus thuru.Wkwk ",
             React.createElement("span", { className: "reminder-time" }, "10AM"))));
 };
 const Time = () => {
