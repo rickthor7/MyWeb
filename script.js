@@ -212,6 +212,7 @@ const QuickNav = () => {
         return [{
                 id: 1,
                 label: "Blog"
+                href: "https://mhmmdthoriq.my.id/"
             }, {
                 id: 2,
                 label: "Islamic"
@@ -390,13 +391,13 @@ const Movies = () => {
                 desc: "Hacker pro tingkat dewa ",
                 id: 2,
                 icon: "fa-solid fa-hat-wizard",
-                image: "https://static.wikia.nocookie.net/netflix/images/5/5b/The_Great_Hack.jpg/revision/latest/scale-to-width-down/350?cb=20200622140240",
+                image: "https://images.tokopedia.net/img/cache/500-square/hDjmkQ/2022/3/21/24c7f3a9-8695-4ecc-9919-68e42d86f964.jpg",
                 title: "The Great Hack"
             }, {
                 desc: "Gud ending seru juga. Intinya ga nyesel lah wk.",
                 id: 3,
                 icon: "fa-solid fa-broom-ball",
-                image: "https://thumbor.prod.vidiocdn.com/MStPEqs_l75Fr7GuUIM_0iZzPKk=/filters:quality(70)/vidio-web-prod-film/uploads/film/image_portrait/1285/fabricated-city-4cea36.jpg",
+                image: "https://m.media-amazon.com/images/M/MV5BNDcyMGE1ZmItOTY3ZS00ODFiLWI0OGMtNzBjMDJhZWNlMDBmXkEyXkFqcGdeQXVyMTA4NjE0NjEy._V1_.jpg",
                 title: "Fabricated City"
             }, {
                 desc: "gamer hacker ganteng kek gw hhh.",
