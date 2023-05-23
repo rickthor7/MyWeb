@@ -1,3 +1,3 @@
 ## My Personal Website
 
- - https://www.rickthor7.my.id
+ - https://www.mhmmdthoriq.my.id
