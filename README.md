@@ -1,3 +1,3 @@
 ## My Personal Website
 
- - https://www.mhmmdthoriq.my.id
+ - https://rickthor7.github.io
